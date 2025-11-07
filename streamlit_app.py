@@ -91,7 +91,7 @@ def ask_agent(agent_executor, question: str):
 # --------------------------------------------------------------------
 def main():
     st.set_page_config(page_title="기술보증기금 AI 비서", layout="wide", page_icon="🤖")
-    st.image('data/gom_image.jpg', width=800)
+    st.image('data/passion_image.jpg', width=800)
     st.markdown('---')
     st.title("안녕하세요! 패션관련 AI 비서 입니다")  
 
